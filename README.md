@@ -6,3 +6,5 @@ Primeira alteração no novo projeto teste.
 Alteração na branch local.
 
 Alteração na branch após alterar o nome.
+
+mais um teste
